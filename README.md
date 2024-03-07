@@ -7,7 +7,7 @@
    git clone https://github.com/Ace-9136/Stock-Assignment
    cd Stock-Assignment
    
-2. **Install dependencies:**
+2. **Make virtual Environment and Install dependencies:**
    ```bash
    pip install -r requirements.txt
 
